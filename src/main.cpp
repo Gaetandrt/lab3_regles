@@ -4,6 +4,10 @@
 
 int main()
 {
+    std::cout << "Gaëtan Darrort & Thimothé Durand"
+              << std::endl
+              << std::endl;
+
     Produit produit1("1", 20, true, 11);
     Produit produit2("2", -1, false, 22);
     Produit produit3("", 10, true, 33);
